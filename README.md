@@ -100,3 +100,6 @@ Future experiments will extend this framework toward:
 This project forms the computational foundation for investigating whether neural manifold geometry can be used to maintain robust decoding despite changes in neural population dynamics.
 
 **Keywords:** Neural Manifolds · Neural Decoding · Brain-Computer Interfaces · Computational Neuroscience · Neural Drift · Population Coding · PCA · Representational Similarity
+### Temporal Neural Manifold
+
+![Temporal Neural Manifold](neural_manifold_temporal_drift.png)
