@@ -1,0 +1,17 @@
+Metric,Value
+Trials,574
+Neural units,137
+Mean pre-movement firing Hz,4.601
+Mean post-movement firing Hz,4.097
+FDR-significant neurons,104
+Significant increases,44
+Significant decreases,60
+PC1 variance,0.0470
+PC2 variance,0.0460
+PC3 variance,0.0317
+PC1-3 combined variance,0.1247
+PC1-10 combined variance,0.2594
+Early-late centroid distance,0.5168
+Early-late population correlation,0.9963
+RSA correlation,-0.0257
+Relative population change,0.0689
